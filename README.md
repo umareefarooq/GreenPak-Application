@@ -19,3 +19,7 @@ Last but not the least, I would like to thank my team mates. They deserve kudos 
 
 This report has been prepared as part of our semester project. This report is prepared with the view to include all the details regarding the project that we carried out. This project of Green Pak was carried out on the instruction of Dr. Musadaq Mansoor as our semester project for the subject of Mobile Computing.
 The main purpose behind this project is to promote the concept of plantation in citizens and create awareness about the benefits of vegetation and plantations. Our project is inspired from the Clean Green Pakistan (CGP), which is a flagship five-year campaign of the Prime Minister of Pakistan, Mr. Imran Khan.
+
+## Summary
+
+Global warming and environmental degradation issues related to deforestation were the key factors that lead us to the idea of GreenPak. We aimed at helping our country and environment by pursuing this project that will not only help the Ten Billion Trees Tsunami Program (TBTTP) in achieving their goal, but also motivate the youth of our country to participate in such initiatives. We carried out this project so everyone will get a chance to contribute to the betterment of our environment. Anyone can register and start planting trees to get points alongside contributing the greater cause of protecting our environment.
