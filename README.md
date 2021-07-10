@@ -14,3 +14,8 @@ We dedicate our work firstly to our parents and then to our respected teacher, D
 I would like to express our sincerest gratitude towards our project supervisor, Mr. Musadaq Mansoor for making us skillful enough for working on such a high-level project such as the application under development and considering us capable enough of giving us such an opportunity. It would have never been possible had it not been for his constant guidance and support.
 The completion of the project was fully dependent on the structuration of the project report supervisor. Achieving this milestone could not have been possible without the invaluable and perpetual guidance, support, comments and suggestions provided by our course supervisor, Mr. Basit, throughout the course of the project.
 Last but not the least, I would like to thank my team mates. They deserve kudos for the way in which they organized the project at such short notice. Heartfelt thanks to all.
+
+## Preface
+
+This report has been prepared as part of our semester project. This report is prepared with the view to include all the details regarding the project that we carried out. This project of Green Pak was carried out on the instruction of Dr. Musadaq Mansoor as our semester project for the subject of Mobile Computing.
+The main purpose behind this project is to promote the concept of plantation in citizens and create awareness about the benefits of vegetation and plantations. Our project is inspired from the Clean Green Pakistan (CGP), which is a flagship five-year campaign of the Prime Minister of Pakistan, Mr. Imran Khan.
