@@ -59,3 +59,7 @@ Project “GreenPak” aims towards the restoration and plantation of the greene
 
 ![login](https://user-images.githubusercontent.com/80045035/125154751-0ff3ef00-e175-11eb-9db9-ca54df6c1dbf.jpg)
 
+## Sequence Diagram For Plant a Tree
+
+![plant a tree](https://user-images.githubusercontent.com/80045035/125154763-28fca000-e175-11eb-9c59-6abcf808a808.png)
+
