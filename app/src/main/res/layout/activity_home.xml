@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".home"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Null"
+        android:id="@+id/username"
+        android:gravity="center"
+        android:textColor="#01411c"/>
+    <ImageView
+        android:id="@+id/iv1"
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:src="@drawable/h3" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        >
+        <Button
+            android:id="@+id/allplants"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:text="See All Plants"
+            android:backgroundTint="#01411c"
+            android:layout_margin="10dp"
+            android:onClick="gotoallplants"
+            />
+        <Button
+            android:id="@+id/plant"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:text="Plant a Tree"
+            android:backgroundTint="#01411c"
+            android:layout_toRightOf="@+id/allplants"
+            android:layout_margin="10dp"
+            android:onClick="gotoplant"/>
+        <Button
+            android:id="@+id/upcoming"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:text="Up comming Events"
+            android:backgroundTint="#01411c"
+            android:layout_below="@+id/allplants"
+            android:layout_margin="10dp"
+            android:onClick="gotoupcoming"/>
+        <Button
+            android:id="@+id/complaint"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:text="Report a Problem"
+            android:backgroundTint="#01411c"
+            android:layout_below="@+id/plant"
+            android:layout_toRightOf="@+id/upcoming"
+            android:layout_margin="10dp"
+            android:onClick="gotocomplaints"
+            />
+    </RelativeLayout>
+
+
+    <Button
+        android:layout_marginTop="25dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:onClick="logout"
+        android:layout_gravity="center"
+        android:backgroundTint="#01411c"/>
+
+
+</LinearLayout>

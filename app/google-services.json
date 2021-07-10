@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39868565354",
+    "project_id": "greenpakfinal",
+    "storage_bucket": "greenpakfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39868565354:android:dbb921690330f3d1104713",
+        "android_client_info": {
+          "package_name": "com.example.greenpak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39868565354-jtph9h16jb07552ku7g6plf382e2etes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD37m3Cwmojh9xQJd4szl7Hs1sEAz3jXhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39868565354-jtph9h16jb07552ku7g6plf382e2etes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
