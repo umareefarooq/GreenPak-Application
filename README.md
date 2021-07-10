@@ -66,3 +66,13 @@ Project “GreenPak” aims towards the restoration and plantation of the greene
 ## Sequence Diagram For Report a Problem
 
 ![report (1)](https://user-images.githubusercontent.com/80045035/125154789-50536d00-e175-11eb-97a2-2622f8696b59.png)
+
+## Sequence Diagram For See All Plants
+
+![seeallplant](https://user-images.githubusercontent.com/80045035/125154817-67925a80-e175-11eb-9ed5-13eace1109f2.png)
+
+## Sequence Diagram For Logout
+
+![logout](https://user-images.githubusercontent.com/80045035/125154831-7973fd80-e175-11eb-892d-942e310b21cb.jpg)
+
+## Sequence Diagram For Logout
