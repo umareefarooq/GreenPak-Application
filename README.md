@@ -89,3 +89,16 @@ Project “GreenPak” aims towards the restoration and plantation of the greene
 ## Login Screen
 
 ![login screen](https://user-images.githubusercontent.com/80045035/125154907-ebe4dd80-e175-11eb-99a4-435216775614.png)
+
+## Home Screen
+
+![home screen](https://user-images.githubusercontent.com/80045035/125154927-074fe880-e176-11eb-95f7-3018d1fe891f.png)
+
+## Report a Problem Screen
+
+![report problem screen](https://user-images.githubusercontent.com/80045035/125154939-15056e00-e176-11eb-835b-5cb57446b33f.png)
+
+
+## Upcoming Events Screen
+
+![upcoming events screen](https://user-images.githubusercontent.com/80045035/125154950-25b5e400-e176-11eb-8e5e-bfe2035f69f0.png)
